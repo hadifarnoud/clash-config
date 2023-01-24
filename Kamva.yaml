@@ -1,0 +1,5 @@
+payload:
+  # stackoverflow sites
+  - DOMAIN-SUFFIX,stackexchange.com
+  - DOMAIN-SUFFIX,stackoverflow.com
+  - DOMAIN-SUFFIX,superuser.com
