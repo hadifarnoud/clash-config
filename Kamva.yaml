@@ -5,4 +5,4 @@ payload:
   - DOMAIN-SUFFIX,superuser.com
 
   # Kamva services
-  - DOMAIN-SUFFIX,invoice.kamva.ir
+  - DOMAIN-SUFFIX,kamva.ir
