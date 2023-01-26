@@ -3,3 +3,6 @@ payload:
   - DOMAIN-SUFFIX,stackexchange.com
   - DOMAIN-SUFFIX,stackoverflow.com
   - DOMAIN-SUFFIX,superuser.com
+
+  # Kamva services
+  - DOMAIN-SUFFIX,invoice.kamva.ir
