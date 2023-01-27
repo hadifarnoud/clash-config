@@ -6,3 +6,6 @@ payload:
 
   # Kamva services
   - DOMAIN-SUFFIX,kamva.ir
+  
+  # Download sites
+  - DOMAIN-SUFFIX,filegir.com
