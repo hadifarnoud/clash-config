@@ -9,3 +9,7 @@ payload:
   
   # Download sites
   - DOMAIN-SUFFIX,filegir.com
+
+  # Google Meet
+  - DOMAIN-SUFFIX,meet.google.com
+  - DOMAIN-SUFFIX,meet.turns.goog
