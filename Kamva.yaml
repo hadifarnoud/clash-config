@@ -13,3 +13,7 @@ payload:
   # Google Meet
   - DOMAIN-SUFFIX,meet.google.com
   - DOMAIN-SUFFIX,meet.turns.goog
+
+  #Github
+  - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,githubusercontent.com
