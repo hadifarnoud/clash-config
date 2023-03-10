@@ -24,3 +24,5 @@ payload:
   #Github
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,githubusercontent.com
+  # Pakat
+  - DOMAIN-SUFFIX,pakat.net
