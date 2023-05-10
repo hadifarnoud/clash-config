@@ -10,7 +10,7 @@ payload:
   # Download sites
   - DOMAIN-SUFFIX,filegir.com
 
-  # Google Meet
+  # Google
   - DOMAIN-SUFFIX,meet.google.com
   - DOMAIN-SUFFIX,meet.turns.goog
   - DOMAIN-SUFFIX,clients2.google.com
@@ -20,6 +20,7 @@ payload:
   - DOMAIN-SUFFIX,fonts.gstatic.com
   - DOMAIN-SUFFIX,lh3.googleusercontent.com
   - DOMAIN-SUFFIX,meetings.clients6.google.com
+  - DOMAIN-SUFFIX,developers.google.com
 
   #Github
   - DOMAIN-SUFFIX,github.com
