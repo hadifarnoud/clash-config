@@ -30,4 +30,4 @@ payload:
   # Zoho
   - DOMAIN-SUFFIX,calendar.zoho.com
   - DOMAIN-SUFFIX,imappro.zoho.com
-  - DOMAIN-SUFFIX,imappro.zoho.com
+  - DOMAIN-SUFFIX,smtppro.zoho.com
