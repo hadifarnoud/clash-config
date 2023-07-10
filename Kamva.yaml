@@ -27,3 +27,7 @@ payload:
   - DOMAIN-SUFFIX,githubusercontent.com
   # Pakat
   - DOMAIN-SUFFIX,pakat.net
+  # Zoho
+  - DOMAIN-SUFFIX,calendar.zoho.com
+  - DOMAIN-SUFFIX,imappro.zoho.com
+  - DOMAIN-SUFFIX,imappro.zoho.com
