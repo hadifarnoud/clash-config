@@ -31,3 +31,13 @@ payload:
   - DOMAIN-SUFFIX,calendar.zoho.com
   - DOMAIN-SUFFIX,imappro.zoho.com
   - DOMAIN-SUFFIX,smtppro.zoho.com
+  # Cloudflared
+  - DOMAIN-SUFFIX,region1.v2.argotunnel.com
+  - DOMAIN-SUFFIX,region2.v2.argotunnel.com
+  - DOMAIN-SUFFIX,cftunnel.com
+  - DOMAIN-SUFFIX,h2.cftunnel.com
+  - DOMAIN-SUFFIX,quic.cftunnel.com
+  - DOMAIN-SUFFIX,api.cloudflare.com
+  - DOMAIN-SUFFIX,update.argotunnel.com
+  - DOMAIN-SUFFIX,kamva.cloudflareaccess.com
+  - DOMAIN-SUFFIX,pqtunnels.cloudflareresearch.com
