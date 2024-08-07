@@ -8,6 +8,7 @@ payload:
   # IPTV
   - DOMAIN-SUFFIX,fixos.me
   - DOMAIN-SUFFIX,cdn-o2.me
+  - IP-CIDR, 85.92.112.0/24,no-resolve
   # > Sony
   # - USER-AGENT,RemotePlay*
   - DOMAIN-SUFFIX,playstation.com
