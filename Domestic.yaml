@@ -1,4 +1,10 @@
 payload:
+  # > CODM
+  - DST-PORT,20000
+  - DST-PORT,20001
+  - DST-PORT,50000
+  - DST-PORT,65010
+  - DST-PORT,65050
   # > Blizzard
   # - USER-AGENT,hearthstone*
   - DOMAIN,cdp.cloud.unity3d.com
