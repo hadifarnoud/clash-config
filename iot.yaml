@@ -2,6 +2,7 @@ payload:
   # IOT
   - DOMAIN-SUFFIX,iotcplatform.com
   - DOMAIN-SUFFIX,mi.com
+  - DOMAIN-SUFFIX,ts.net
   - 120.92.152.0/21
   - 183.84.4.0/23
   - "DOMAIN-REGEX,^derp.*tailscale\\.com,DIRECT"
