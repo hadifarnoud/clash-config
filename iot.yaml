@@ -3,6 +3,7 @@ payload:
   - DOMAIN-SUFFIX,iotcplatform.com
   - DOMAIN-SUFFIX,mi.com
   - DOMAIN-SUFFIX,ts.net
+  - DOMAIN-SUFFIX,taiscale.com
   - 120.92.152.0/21
   - 183.84.4.0/23
   - "DOMAIN-REGEX,^derp.*tailscale\\.com,DIRECT"
