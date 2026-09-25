@@ -6,6 +6,7 @@ payload:
 
   # Kamva services
   - DOMAIN-SUFFIX,kamva.ir
+  - DOMAIN-SUFFIX,kamva.org
   - IP-CIDR, 87.247.188.221/32
   
   # Download sites
